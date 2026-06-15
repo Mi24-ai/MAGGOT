@@ -1,2 +1,0 @@
-# MAGGOT
-APP MAG-GO
